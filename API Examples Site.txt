@@ -1,0 +1,4 @@
+1. https://kanye.rest/
+2. https://randomuser.me/
+3. https://jsonplaceholder.typicode.com/
+4. https://restcountries.eu/rest/v2/all
