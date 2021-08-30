@@ -2,3 +2,4 @@
 2. https://randomuser.me/
 3. https://jsonplaceholder.typicode.com/
 4. https://restcountries.eu/rest/v2/all
+5. https://www.themealdb.com/api.php

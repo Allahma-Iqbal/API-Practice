@@ -51,7 +51,6 @@ const loadCountryByName = name => {
     // console.log(url)
 }
 
-
 const displayCountryDetail = country => {
     const countryDiv = document.getElementById('country-details');
     countryDiv.innerHTML = `
